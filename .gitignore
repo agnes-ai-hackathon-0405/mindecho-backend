@@ -1,1 +1,9 @@
+skills-lock.json
+.claude/
+.agents/
 .env
+.venv/
+__pycache__/
+*.py[cod]
+out.mp3
+recording.wav
